@@ -10,15 +10,18 @@ root.render(
   <StrictMode>
     <h1>Weather App</h1>
     <Weather />
+    <br />
     <div>
-      <a
-        href="https://github.com/Goli2023/react-homework-w4"
-        target="-blank"
-        alt=""
-      >
-        Open source{" "}
-      </a>{" "}
-      by Goli
+      <small>
+        <a
+          href="https://github.com/Goli2023/react-homework-w4"
+          target="-blank"
+          alt=""
+        >
+          Open source{" "}
+        </a>{" "}
+        by Goli
+      </small>
     </div>
   </StrictMode>
 );
