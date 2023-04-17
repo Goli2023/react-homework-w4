@@ -10,13 +10,5 @@ root.render(
   <StrictMode>
     <h1>Weather App</h1>
     <Weather />
-    <a
-      href="https://github.com/Goli2023/react-homework-w4"
-      target="-blank"
-      alt=""
-    >
-      Open source{" "}
-    </a>{" "}
-    by Goli
   </StrictMode>
 );
